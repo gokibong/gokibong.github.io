@@ -1,5 +1,5 @@
 # gokibong.github.io
-gokibong homepage
+# gokibong homepage
 <!DOCTYPE html>
 <html lang="ko">
 <head>
